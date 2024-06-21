@@ -2,7 +2,7 @@
 
 This project is a simple dice game built with HTML, CSS, and JavaScript. The game can be played by two players, and the objective is to be the first player to reach 20 points. The game uses basic DOM manipulation to update the scores and manage the game state.
 
-[!image](image.png)
+![image](image.png)
 
 ## Table of Contents
 
@@ -65,7 +65,7 @@ To set up and run this project locally, follow these steps:
 ## JavaScript Code Explanation
 
 The JavaScript code is responsible for the game logic and DOM manipulation. Below is an explanation of key parts of the code:
-[!flowchart](pig-game-flowchart.png)
+![flowchart](pig-game-flowchart.png)
 
 ### Initialization Function
 
